@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**yKarsun/yKarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋🏻 Greetings!
+<img src="vyolit.png" align="left" height="445px" />
 
-Here are some ideas to get you started:
+```yml
+vyolit@GitHub: ~ $ whoami
+──────────────────────────────────────────────
+🏮 Name's Alexa — I do web development for a living and commissions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Let's get the non-obvious facts straight:
+Full Name:
+    Alexandra Aurora Göttlicher
+Age:
+    20
+I live in:
+    Austria
+Hobbies:
+    Hip Hop/Street dancing,
+    video games,
+    drawing,
+    learning chinese
+Languages/Frameworks I use:
+    PHP (Symfony),
+    Objective-C
+Fun Fact:
+    I'm into white hair *wink*
+
+💬 Wanna chat?
+https://linktr.ee/vyolit
+```
