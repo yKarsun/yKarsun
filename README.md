@@ -4,28 +4,20 @@
 <img src="vyolit.png" align="left" height="445px" />
 
 ```yml
-vyolit@GitHub: ~ $ whoami
+
 ──────────────────────────────────────────────
-🏮 Name's Alexa — I do web development for a living and commissions.
+🏮 Name's yKarsun — I have no idea about nothing
 
 🌱 Let's get the non-obvious facts straight:
 Full Name:
-    Alexandra Aurora Göttlicher
+    Leon
 Age:
-    20
+    16
 I live in:
-    Austria
+    Germany
 Hobbies:
-    Hip Hop/Street dancing,
-    video games,
-    drawing,
-    learning chinese
+none
 Languages/Frameworks I use:
-    PHP (Symfony),
-    Objective-C
-Fun Fact:
-    I'm into white hair *wink*
+    HTM, CSS
 
-💬 Wanna chat?
-https://linktr.ee/vyolit
 ```
