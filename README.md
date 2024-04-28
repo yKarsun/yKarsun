@@ -6,13 +6,13 @@
 ```yml
 
 ──────────────────────────────────────────────
-🏮 Name's yKarsun — I have no idea about nothing
+🏮 Name's yKarsun — I have no idea
 
 🌱 Let's get the non-obvious facts straight:
 Full Name:
     Leon
 Age:
-    16
+    17
 I live in:
     Germany
 Hobbies:
