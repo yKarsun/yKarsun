@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## 👋🏻 Greetings!
-<img src="vyolit.png" align="left" height="445px" />
 
 ```yml
 
