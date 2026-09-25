@@ -11,12 +11,12 @@
 Full Name:
     Leon
 Age:
-    17
+    19
 I live in:
     Germany
 Hobbies:
-none
+Running, Gym
 Languages/Frameworks I use:
-    HTM, CSS
+    HTM, CSS, Claude :)
 
 ```
